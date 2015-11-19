@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelJsonLib", "src\ExcelJs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelJsonLib.Tests", "src\ExcelJsonLib.Tests\ExcelJsonLib.Tests.csproj", "{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}"
 EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "ExcelJsonTableSetup", "src\ExcelJsonTableSetup\ExcelJsonTableSetup.isproj", "{15D09C11-B837-4EC4-B602-4CB49FFEF5DA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B8FAA88A-CD3A-4481-B002-D2510B8D7EA0} = {B8FAA88A-CD3A-4481-B002-D2510B8D7EA0}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +32,9 @@ Global
 		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D09C11-B837-4EC4-B602-4CB49FFEF5DA}.Debug|Any CPU.ActiveCfg = SingleImage
+		{15D09C11-B837-4EC4-B602-4CB49FFEF5DA}.Release|Any CPU.ActiveCfg = SingleImage
+		{15D09C11-B837-4EC4-B602-4CB49FFEF5DA}.Release|Any CPU.Build.0 = SingleImage
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
