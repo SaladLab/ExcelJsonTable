@@ -6,7 +6,7 @@ data to json format for being read by program correctly.
 
 ### Where can I get it?
 
-Visit [Release](https://github.com/SaladbowlCreative/ExcelJsonTable/releases) page to get latest add-in install file.
+Visit [Release](https://github.com/SaladLab/ExcelJsonTable/releases) page to get latest add-in install file.
 
 ### Example
 
@@ -16,7 +16,7 @@ Those are card data of famous game [Hearthstone](http://us.battle.net/hearthston
 ![screenshot](docs/screenshot.png)
 
 You can easily update data within excel. After exporting data, following json file
-is saved. [TemplateTable](https://github.com/SaladbowlCreative/TemplateTable) might be
+is saved. [TemplateTable](https://github.com/SaladLab/TemplateTable) might be
 usuful to read and write json table.
 
 ```json
