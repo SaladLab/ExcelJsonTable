@@ -1138,7 +1138,7 @@
 		<row><td>CommonFilesFolder</td><td>TARGETDIR</td><td>.:Common</td><td/><td>0</td><td/></row>
 		<row><td>DATABASEDIR</td><td>ISYourDataBaseDir</td><td>.</td><td/><td>0</td><td/></row>
 		<row><td>DesktopFolder</td><td>TARGETDIR</td><td>.:Desktop</td><td/><td>3</td><td/></row>
-		<row><td>EXCELJSONTABLE</td><td>SALADBOWL_CREATIVE</td><td>EXCELJ~1|ExcelJsonTable</td><td/><td>0</td><td/></row>
+		<row><td>EXCELJSONTABLE</td><td>SALADLAB</td><td>EXCELJ~1|ExcelJsonTable</td><td/><td>0</td><td/></row>
 		<row><td>EXCELJSONTABLE1</td><td>ProgramFilesFolder</td><td>EXCELJ~1|ExcelJsonTable</td><td/><td>0</td><td/></row>
 		<row><td>FavoritesFolder</td><td>TARGETDIR</td><td>.:FAVORI~1|Favorites</td><td/><td>0</td><td/></row>
 		<row><td>FontsFolder</td><td>TARGETDIR</td><td>.:Fonts</td><td/><td>0</td><td/></row>
@@ -1149,7 +1149,7 @@
 		<row><td>ISMyProductDir</td><td>ISMyCompanyDir</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
 		<row><td>ISYourDataBaseDir</td><td>INSTALLDIR</td><td>Database</td><td/><td>0</td><td/></row>
 		<row><td>LocalAppDataFolder</td><td>TARGETDIR</td><td>.:LocalA~1|LocalAppData</td><td/><td>0</td><td/></row>
-		<row><td>MY_PRODUCT_NAME</td><td>SALADBOWL_CREATIVE</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
+		<row><td>MY_PRODUCT_NAME</td><td>SALADLAB</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
 		<row><td>MyPicturesFolder</td><td>TARGETDIR</td><td>.:MyPict~1|MyPictures</td><td/><td>0</td><td/></row>
 		<row><td>NetHoodFolder</td><td>TARGETDIR</td><td>.:NetHood</td><td/><td>0</td><td/></row>
 		<row><td>PersonalFolder</td><td>TARGETDIR</td><td>.:Personal</td><td/><td>0</td><td/></row>
@@ -1159,7 +1159,7 @@
 		<row><td>ProgramFilesFolder</td><td>TARGETDIR</td><td>.:PROGRA~1|program files</td><td/><td>0</td><td/></row>
 		<row><td>ProgramMenuFolder</td><td>TARGETDIR</td><td>.:Programs</td><td/><td>3</td><td/></row>
 		<row><td>RecentFolder</td><td>TARGETDIR</td><td>.:Recent</td><td/><td>0</td><td/></row>
-		<row><td>SALADBOWL_CREATIVE</td><td>ProgramFilesFolder</td><td>SALADB~1|Saladbowl Creative</td><td/><td>0</td><td/></row>
+		<row><td>SALADLAB</td><td>ProgramFilesFolder</td><td>SALADLAB|SaladLab</td><td/><td>0</td><td/></row>
 		<row><td>SendToFolder</td><td>TARGETDIR</td><td>.:SendTo</td><td/><td>3</td><td/></row>
 		<row><td>StartMenuFolder</td><td>TARGETDIR</td><td>.:STARTM~1|Start Menu</td><td/><td>3</td><td/></row>
 		<row><td>StartupFolder</td><td>TARGETDIR</td><td>.:StartUp</td><td/><td>3</td><td/></row>
@@ -2617,7 +2617,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>Saladbowl Creative</td><td>0</td><td/><td>-1650226121</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>SaladLab</td><td>0</td><td/><td>841275829</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>-1650222089</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>-1650222089</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>1033</td><td>Microsoft .NET Framework 4.5 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>-1650203433</td></row>
@@ -3719,8 +3719,8 @@
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>-1650222089</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>-1650222089</td></row>
 		<row><td>ID_STRING1</td><td>1033</td><td/><td>0</td><td/><td>-1650222089</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>https://github.com/SaladbowlCreative/ExcelJsonTable</td><td>0</td><td/><td>-1650256809</td></row>
-		<row><td>ID_STRING3</td><td>1033</td><td>Saladbowl Creative</td><td>0</td><td/><td>-1650226121</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>https://github.com/SaladLab/ExcelJsonTable</td><td>0</td><td/><td>841220565</td></row>
+		<row><td>ID_STRING3</td><td>1033</td><td>SaladLab</td><td>0</td><td/><td>-1650226121</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>-1650222089</td></row>
 	</table>
 
@@ -4410,9 +4410,9 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S0">Value</col>
 		<col def="s72">Component_</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>Registry1</td><td>1</td><td>Software\Microsoft\Office\Excel\Addins\SaladbowlCreative.ExcelJsonTable</td><td>FriendlyName</td><td>Excel JsonTable Add-in</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry3</td><td>1</td><td>Software\Microsoft\Office\Excel\Addins\SaladbowlCreative.ExcelJsonTable</td><td>LoadBehavior</td><td>#3</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry4</td><td>1</td><td>Software\Microsoft\Office\Excel\Addins\SaladbowlCreative.ExcelJsonTable</td><td>Manifest</td><td>file:///[INSTALLDIR]ExcelJsonTable.vsto|vstolocal</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
+		<row><td>Registry1</td><td>1</td><td>Software\Microsoft\Office\Excel\Addins\SaladLab.ExcelJsonTable</td><td>FriendlyName</td><td>Excel JsonTable Add-in</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
+		<row><td>Registry3</td><td>1</td><td>Software\Microsoft\Office\Excel\Addins\SaladLab.ExcelJsonTable</td><td>LoadBehavior</td><td>#3</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
+		<row><td>Registry4</td><td>1</td><td>Software\Microsoft\Office\Excel\Addins\SaladLab.ExcelJsonTable</td><td>Manifest</td><td>file:///[INSTALLDIR]ExcelJsonTable.vsto|vstolocal</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
 	</table>
 
 	<table name="RemoveFile">
